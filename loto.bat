@@ -1,0 +1,1 @@
+"C:\Users\Thinkpad\anaconda3\python.exe" "C:\Users\Thinkpad\OneDrive\Desktop\loto\loto.py"
